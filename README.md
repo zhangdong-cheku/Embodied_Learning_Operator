@@ -1,4 +1,4 @@
-# Embodied-Learning-Operator-ELO-
+# Embodied-Learning-Operator
 具身学习操控器
 该机械臂摇操系统采用 AS5600 磁编码器和 ESP32 控制平台构建。
 系统通过四路磁编码器实时采集关节角度变化，ESP32 对数据进行处理后以蓝牙广播方式发送至上位机或移动终端。
