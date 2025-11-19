@@ -15,3 +15,5 @@ The terminal receives the data and maps the joint angles into a 3D simulation en
 During the initialization phase, the robotic arm control system maps the state of the physical world to the simulation environment.
 During operation, when a target joint angle is entered in the simulation environment, the system maps the command back to the physical world to drive the real robotic arm.
 The system also supports robotic arm control through mouse dragging and keyboard input.
+
+![图片描述](相对路径/文件名.gif)
