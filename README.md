@@ -17,7 +17,7 @@ During operation, when a target joint angle is entered in the simulation environ
 The system also supports robotic arm control through mouse dragging and keyboard input.
 
 <p align="center">  
-  <img src="(pictures/操控机.gif" width="800"/>
+  <img src="pictures/操控机.gif" width="800"/>
 
 ## 致谢
 感谢项目组成员岳国文在项目迭代与数据处理中做出的贡献，感谢张东老师在项目方案上的精准指导，也感谢项目组其他成员的通力协作。
