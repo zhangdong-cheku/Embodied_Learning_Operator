@@ -16,4 +16,12 @@ During the initialization phase, the robotic arm control system maps the state o
 During operation, when a target joint angle is entered in the simulation environment, the system maps the command back to the physical world to drive the real robotic arm.
 The system also supports robotic arm control through mouse dragging and keyboard input.
 
-![图片描述](pictures/操控机.gif)
+<p align="center">  
+  <img src="(pictures/操控机.gif" width="800"/>
+
+## 致谢
+感谢项目组成员岳国文在项目迭代与数据处理中做出的贡献，感谢张东老师在项目方案上的精准指导，也感谢项目组其他成员的通力协作。
+
+## 加入社区
+<p align="center">  
+  <img src="QQ群/QQ群.png" width="400"/>
